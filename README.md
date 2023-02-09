@@ -1,4 +1,4 @@
-# CS144: Introduction to Computer Networking
+# CS144: Introduction to Computer Networking :signal_strength:
 
 [Course Syllabus](https://cs144.github.io/)
 

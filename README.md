@@ -10,7 +10,7 @@
     - Implement a reliable stream of bytes between a writer and a reader.
 
 
-- [ ] Lab 1 - Stitching Substrings Into a Byte Stream
+- [x] Lab 1 - Stitching Substrings Into a Byte Stream
 - [ ] Lab 2 - The TCP Receiver
 - [ ] Lab 3 - The TCP Sender
 - [ ] Lab 4 - 
